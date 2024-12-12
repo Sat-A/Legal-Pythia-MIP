@@ -44,6 +44,26 @@ def extract_deforestation_impact(text):
     match = re.search(r"Deforestation Impact\s*\(hectares\):?\s*([\d,\.]+)", text, re.IGNORECASE)
     return match.group(1) if match else "Not explicitly mentioned"
 
+def extract_certifications(text):
+    match = re.search(r"Certifications\s*:\s*(.*?)(?:\.|\n|$)", text, re.IGNORECASE)
+    return match.group(1).strip() if match else "Not explicitly mentioned"
+
+def extract_violations(text):
+    match = re.search(r"Number of Violations\s*:\s*([\d]+)", text, re.IGNORECASE)
+    return match.group(1) if match else "Not explicitly mentioned"
+
+def extract_esg_score(text):
+    match = re.search(r"ESG Investment Attractiveness Score\s*:\s*([\d\.]+)", text, re.IGNORECASE)
+    return match.group(1) if match else "Not explicitly mentioned"
+
+def extract_stock_impact(text):
+    match = re.search(r"Impact on Stock Price\s*\(%\):?\s*([\d\.]+)", text, re.IGNORECASE)
+    return match.group(1) if match else "Not explicitly mentioned"
+
+def extract_sustainability_initiatives(text):
+    match = re.search(r"Sustainability Initiatives\s*:\s*(.*?)(?:\.|\n|$)", text, re.IGNORECASE)
+    return match.group(1).strip() if match else "Not explicitly mentioned"
+
 # Query Llama Index for semantic extraction
 def query_feature(query):
     response = query_engine.query(query)
@@ -71,25 +91,25 @@ features = {
         "query": "What is the impact on deforestation (in hectares)?",
         "regex": extract_deforestation_impact(pdf_text)
     },
-    "Sustainability Initiatives": {
-        "query": "What sustainability initiatives are described in the report?",
-        "regex": None
-    },
-    "Certification Presence": {
+    "Certifications": {
         "query": "What certifications are mentioned in the report?",
-        "regex": None
+        "regex": extract_certifications(pdf_text)
     },
     "Number of Violations": {
         "query": "How many violations are reported in the document?",
-        "regex": None
+        "regex": extract_violations(pdf_text)
     },
     "ESG Investment Attractiveness Score": {
         "query": "What is the ESG investment attractiveness score?",
-        "regex": None
+        "regex": extract_esg_score(pdf_text)
     },
     "Impact on Stock Price (%)": {
         "query": "What is the reported impact on stock price?",
-        "regex": None
+        "regex": extract_stock_impact(pdf_text)
+    },
+    "Sustainability Initiatives": {
+        "query": "What sustainability initiatives are described in the report?",
+        "regex": extract_sustainability_initiatives(pdf_text)
     }
 }
 
@@ -109,23 +129,3 @@ for feature, details in summary.items():
     print(f"  Semantic Extraction: {details['Semantic Extraction']}")
     print(f"  Regex Extraction: {details['Regex Extraction']}")
     print()
-
-# # Prepare for summarisation with OpenAI API (optional)
-# import openai
-
-# # Set your OpenAI API key
-# openai.api_key = "your_openai_api_key"
-
-# # Prepare a prompt for summarisation
-# summary_text = "\n".join(
-#     [f"{feature}: {details['Semantic Extraction']}" for feature, details in summary.items()]
-# )
-
-# response = openai.Completion.create(
-#     engine="text-davinci-003",
-#     prompt=f"Provide a concise summary of the following sustainability report data:\n{summary_text}",
-#     max_tokens=300
-# )
-
-# print("Summarised Report:")
-# print(response.choices[0].text.strip())
