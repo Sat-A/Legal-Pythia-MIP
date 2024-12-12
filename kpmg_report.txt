@@ -1,0 +1,1146 @@
+Sustainability
+report2023
+KPMG•Norway•
+
+KPMG.no
+Tableofcontent
+A•message•from•our•CEO•                                                                                                                                                                   3
+
+General•information••                                                                                                                                                                     4
+
+Double•materiality•assessment•in•progress••                                                                                                                                               9
+
+Environment•10
+
+Social•16
+
+Inclusion,•Diversity•and•Equity•initiatives••                                                                                                                                           21
+
+Governance•26
+
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved  Sustainability report 2023  2
+                                                                                                                                                                                                               A message from our CEO
+                                                                                                                                                                                                                                     A message from our CEO
+
+                                                                                                                                                                                                               General information
+
+                                                                                                                                                                                                               Double materiality
+
+AmessagefromourCEOAs a global community, we are faced with
+                                                                       challenges that will decide our future. Climate                         At KPMG Norway, we aspire to play a key role in
+                                                                                                                                               helping businesses and governments navigate the                 assessment in progress
+                                                                                                                                                                                                               Environment
+                                                                       change, biodiversity loss, over-consumption, aging                      future. To do this, we must embody the values
+                                                                       populations, military conflicts, political instability,                 we promote. Our greatest potential for positive                 Social
+                                                                       and remarkable technological advancements                               change across all ESG categories comes from our
+                                                                       are just some of the critical issues we must                            work with clients. However, we must also continue
+                                                                       navigate today. Over the last decades, we have                          to look for areas of improvement within our own                 Inclusion, Diversity
+                                                                       witnessed significant improvements in living                            organization and practices.                                     and Equity initiatives
+                                                                       standards worldwide. At the same time, the pace
+                                                                       of global poverty reduction has slowed down and                         In this report, we will outline these areas as we
+                                                                       around 700 million people continue to live below                        move towards full compliance with the EU’s                      Governance
+                                                                       the extreme poverty line. These challenges are                          Corporate Sustainability Reporting Directive (CSRD).
+                                                                       daunting, but they are not insurmountable. Our                          The CSRD will elevate sustainability reporting to
+                                                                       mission of being a force for positive change is                         the same level as financial reporting, marking a
+                                                                       what motivates me to work for KPMG.                                     significant milestone for KPMG Norway and the
+                                                                                                                                               European business sector as a whole. As we publish
+                                                                       Few companies possess the size, reach,                                  this year’s report, we are concurrently conducting
+                                                                       expertise, and technology to assist governments,                        research and analysis for next year’s report, with
+                                                                       businesses, and NGOs globally in fostering                              which we will make even greater strides forward.
+                                                                       trust, stability, and sustainable change. I feel
+                                                                       privileged to work for one of those companies.                          We are fully committed to transparency regarding
+                                                                       The challenges we face today cannot be resolved                         our impacts, our goals for change, and our plans
+                                                                       individually or locally; success will require a blend                   for progress, so you can have confidence in our
+                                                                       of local innovation and execution as well as robust                     ability and dedication to being the force for positive
+                                                                       international cooperation.                                              change that we aspire to be.
+
+Rune Skjelvan
+
+CEO, KPMG Norway
+
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.                      Sustainability report 2023  3
+                                                                                                                                                                                                              A message from our CEO
+
+                                                                                                                                                                                                              General information
+                                                                                                                                                                                                                                 General information
+
+                                                                                                                                                                                                              Double materiality
+
+Generalinformation
+Transparency•and•openness•paves•the•way                                    our previous materiality assessment and input from
+                                                                                                                             The content of this report is therefore based on                                 assessment in progress
+                                                                                                                                                                                                              Environment
+                                                                           selected stakeholders, as well as the preliminary
+About this report                                                          findings from the double materiality analysis that                                                                                 Social
+Sustainability is a rapidly evolving field, with a                         we are in the process of conducting. An overall
+multitude of reporting standards and regulatory                            summary of the current status of said double
+requirements. For the last three years KPMG have                           materiality analysis is shared in this report on                                                                                   Inclusion, Diversity
+used the World Economy Forum’s (WEF) Stakeholder                           page 9.                                                                                                                            and Equity initiatives
+Capitalism Reporting framework to structure our
+Sustainability Report. The WEF framework has also                          This report is our first step towards full CSRD
+been used to form our ambitions, targets and KPIs.                         compliance. We acknowledge the complexity of this                                                                                  Governance
+This year we have chosen to move away from the                             new reporting standard and believe it is important
+WEF structure in favor of an Environmental, Social                         to start the preparations early to be able to report
+and Governance (ESG) structure based on our                                complete, trustworthy and transparent sustainability
+preparations for becoming compliant with the EU’s                          information. KPMG has started this journey by
+Corporate Sustainability Reporting Directive (CSRD),                       performing a double materiality assessment in
+which KPMG will be covered by in 2026.                                     accordance with the European Sustainability
+                                                                           Reporting Standards (ESRS).
+The adoption of the CSRD framework has initiated
+the journey to level sustainability reporting with                         Despite our switch from a WEF framework to an
+financial reporting, thus increasing transparency and                      ESG reporting structure, this report contains many
+accountability of corporate sustainability performance.                    of the same disclosures as before. We continue to
+CSRD-compliant reporting depends on a significant                          be aligned with Norwegian law and standards like
+amount of work being done by a company beforehand.                         the GHG protocol, and the Science Based Targets
+One needs to understand its impacts, risks, and                            Initiative (SBTi). Also, we are still committed to
+opportunities and to develop a strategy to manage the                      KPMG International’s Impact Plan.
+sustainability matters that are found to be material. As
+we are ramping up to become CSRD compliant, we are                         This report is prepared and published by KPMG AS
+currently conducting a double materiality analysis that                    on behalf of all Norwegian KPMG entities.
+will be part of next year’s report when we likewise are
+planning to conduct a thorough stakeholder analysis.
+
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.                     Sustainability report 2023  4
+About KPMG Norway                                                    KPMG Technology Solutions AS (reselling and                         KPMG Regnskapsservice AS and KPMG Technology
+KPMG Norway is a part of KPMG International,                         selling own licenses), KPMG Law Advokatfirma                        AS are wholly owned subsidiaries of KPMG AS. The               A message from our CEO
+an international network of member firms                             AS (legal services), KPMG Regnskapsservice AS                       independent company KPMG Law Advokatfirma AS
+with more than 270,000 employees in over                             (authorized accounting firm) and KPMG Tax AS                        with its subsidiary KPMG Tax AS are cooperating
+143 countries. KPMG Norway has about 1,850                           (authorized accounting firm).                                       companies.                                                     General information
+                                                                                                                                                                                                                           General information
+employees spread across 23 local offices and
+mainly provides services in Norway. Business                         KPMG Norway consists of the companies outlined
+activities in the form of service delivery to clients                in the organizational chart below. KPMG Holding AS                                                                                 Double materiality
+take place in KPMG AS (audit and advisory),                          owns 100 percent of the subsidiary KPMG AS.                                                                                        assessment in progress
+
+                                                                                                                                                                                                        Environment
+                                                                                                  KPMGHolding AS                                                                                        Social
+                                                                                                 Org: nr. 956878020
+                                                                                                                                                                                                        Inclusion, Diversity
+                                                                                                                                                                                                        and Equity initiatives
+                                         KPMG Holding AS                                                                                                                                                Governance
+                                                                    KPMG AS                                                                          KPMG Law Advokatfirma AS
+                                                            Org: nr. 935174627                                                                              Org: nr. 956878020
+             KPMG Technology                                                                       KPMG Regnskapsservice AS                                  KPMG Tax AS
+                   Solutions AS                                                                           Org: nr. 923070559                                Org: nr.966429526
+             Org: nr. 984710372
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.               Sustainability report 2023  5
+                                                                                                                                                                                                       A message from our CEO
+KPMGNorway                                                                                                                                                                                             General information
+                                                                                                                                                                                                                          General information
+                                                                                                                                                                                                       Double materiality
+                                                                                                                                                                                                       assessment in progress
+2,981               blnnok                                                                                                                                                                             Environment
+  Law                                                                                                                                                                                                  Social
+                                                    373 mnok
+  Audit                                                                                                                                                                                                Inclusion, Diversity
+                                                                                                                                                                                                       and Equity initiatives
+                                                    1,255 mnok
+  Advisory                                                                                                                                                                                             Governance
+                                                     1,352mnok                            63%
+                                                                                          of us are “millennials”                    37years
+                                                                                                                                     is our average age                   40
+                                                                                                                                                                          Nationalities work here
+                                                                                         Gender                                                        Age
+
+                                                 23
+                                                 Offices                                                                                                  40%
+                                                                                                                                                                32%
+
+                                                 1850
+                                                 Employees                                      45%Kvinner                 55%Menn                                     15%        9%        2%
+
+                                                 126                                                                                                     20-29  30-39  40-49    50-59     60-69
+                                                 Partners
+                                                                                                                                                                           *Numbers from 30.09.23
+
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.              Sustainability report 2023  6
+Our Values                                                                 . Our governance                                                         ESG Strategy
+                                                                                                                                                    KPMGs Sustainability Plan for 2020 – 2025 has been                  A message from our CEO
+Openness and transparency are embedded                                     KPMG Norway is part of the global KPMG network.                          guiding KPMG Norway’s work on sustainability for the
+throughout our organization and are at the core                            Although managed independently, KPMG is                                  last few years, and has formed the basis of our four
+of our sustainability efforts. This is reflected in                        structured such that global activities support                           sustainability principles:                                          General information
+                                                                                                                                                                                                                                           General information
+our values:                                                                a consistent level of quality and set of values,
+                                                                           regardless of where the subsidiary operates.                             •     Openness and transparency are part of our
+Integrity – We do what is right                                            For more information regarding our corporate                                   DNA, as reflected in our values. They are the                 Double materiality
+                                                                           governance, please read our Transparency Report.                               basis for our business model, and hence also                  assessment in progress
+Excellence – We never stop learning and improving                          When it comes to ESG governance within KPMG                                    at the core of our sustainability efforts. Our
+                                                                           Norway, the overall responsibility of ESG and                                  annual transparency report gives a thorough
+Courage – We think and act boldly                                          sustainability in KPMG Norway sits with the                                    overview of how openness and transparency                     Environment
+                                                                           collective Board of Directors.                                                 are embedded throughout our organization.
+Together – We respect each other and draw                                                                                                                 Everyone a leader on sustainability.
+                strength from our differences                              The Chief Financial Officer (CFO) has the overall                                                                                            Social
+                                                                           responsibility for KPMG’s work on sustainability and                     •     Not everyone can be an expert, but all our
+For Better – We do what matters.                                           reporting. There are also several key management                               people should have the necessary knowledge to
+                                                                           roles that have dedicated responsibilities within                              incorporate sustainability into the services we               Inclusion, Diversity
+Ethical standards                                                          the implementation of sustainability in KPMG.                                  provide to our clients. This is how we create impact.         and Equity initiatives
+We respect universal principles and norms that                             The Finance department is responsible for supply                         •     KPMG must dare to be proactive towards clients
+protect labor rights. We promote a responsible                             chain due diligence and for upholding a responsible                            and our greater network. We shall promote
+employment environment, respecting the                                     procurement practice in the firm. The Quality                                  sustainability in all our projects and client                 Governance
+freedom of association and the freedom to                                  Risk Management department manages ethics                                      interactions and establish interdisciplinary teams
+conduct collective negotiations. As a signatory                            and independence, anti-money laundering and                                    to identify and implement optimal and sustainable
+to the UN Global Compact, we work to combat                                anti-corruption, legal counsel, quality control and                            solutions for our clients. We are straightforward.
+corruption in all its forms. Our internal policies                         compliance with local laws and regulations as                            •     To improve our own environmental impact and
+stipulate that illegal or unethical behavior is not                        well as KPMG International policies. The People &                              our carbon footprint we need to set targets,
+tolerated by anyone, and we assess our bribery                             Culture department is responsible for KPMG’s own                               implement routines to ensure climate and
+and corruption environment annually. Further                               workforce, recruitment and hiring processes, as                                environmentally conscious operations and
+information on our ethical standards can be                                well as learning and development activities.
+found in our Global Code of Conduct.                                                                                                                      measure our progress.
+
+              Integrity
+              We do what is right.                       Excellence
+                                                         We never stop learning                       Courage
+                                                                                                      We think and act boldly.                    Together
+                                                                                                                                                  We respect each other                         ForBetter
+                                                                                                                                                                                                We do what matters.
+                                                         and improving.                                                                           and draw strength in our
+                                                                                                                                                  differences.
+
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.                             Sustainability report 2023    7
+As part of the global KPMG network, we’re bound                            Preparing•our•organization•for••
+by strict environmental requirements. As we are in a                       increased•client•expectations•on••                                                                                                           A message from our CEO
+transition period towards CSRD and currently finalizing                    KPMGs•ESG•performance•
+our double materiality assessment, we will be
+updating our sustainability plan during FY2025.                            In order to deliver high-quality services to our clients                                                                                     General information
+                                                                                                                                                                                                                                           General information
+                                                                           in KPMG Audit, Advisory and Law, we established
+Eco Lighthouse                                                             an ESG steering committee in 2022 with members
+KPMG has been a certified Eco Lighthouse since                             from the mentioned business areas. The ESG steering                                                                                          Double materiality
+2011. Eco Lighthouse is a widely used certification                        committee is a forum for consolidation on services                                                                                           assessment in progress
+for businesses that want to document their                                 across the firm and to ensure upskilling of employees
+environmental efforts with more than 10,000                                across the whole organization. As KPMG is in a more
+businesses being certified by Eco Lighthouse in 2023.                      operative phase, we established this year an internal                                                                                        Environment
+                                                                           working group with representatives from the CFO
+UN Global Compact (UNGC)                                                   area as well as members from Forensic, Operations,
+As a UNGC signatory, KPMG Norway is committed                              Law, Audit, ESG, Deals and Digital Transformation that                                                                                       Social
+to developing its business in accordance with the                          on a frequent basis coordinate ESG engagements.
+Ten Principles for Corporate Sustainability. We
+publish annually our Communication of Progress                             KPMG has, for the last few years, invested in                                                                                                Inclusion, Diversity
+and use the principles to guide our sustainability                         ESG competency and built a high-level business                                                                                               and Equity initiatives
+work and business conduct.                                                 environment for ESG strategy, reporting and
+                                                                           assurance services. We have welcomed many new
+EcoVadis                                                                   colleagues with a variation of backgrounds to cover                                                                                          Governance
+KPMG has been registered with EcoVadis since                               the broad spectrum of the ESG umbrella. To prepare
+2019. EcoVadis is a leading sustainability rating                          the organization to meet CSRD requirements, KPMG
+platform. The decision to register KPMG Norway                             makes use of the in-house competence in the ESG
+was made in response to the growing demand from                            advisory and assurance department.
+our clients for transparency and accountability on
+our sustainability practices. EcoVadis provides a                          KPMG invites all employees to a monthly internal
+comprehensive assessment of our sustainability                             broadcast called KPMG Live. This is a forum to inform                     In FY23 we used The International Women’s day,
+performance across four key areas: environment,                            our employees about topics related to our strategic                       Pride month, the World Mental Health Day and the
+labor and human rights, ethics, and sustainable                            agenda, share news, showcase important client work                        International day of Disabilities as opportunities
+procurement. By undergoing this assessment,                                and hear stories directly from coworkers. KPMG                            to engage and upskill our colleagues in matters
+we can identify areas where we can improve                                 Live remains an important strategic instrument in                         regarding IDE.
+our sustainability practices and demonstrate our                           our internal communication and upskilling of all
+commitment to responsible business practices. We                           employees on KPMGs own sustainability work.                               We will continue to build knowledge about
+also see that EcoVadis is relevant as the demand for                       This year’s live sessions have specifically addressed                     sustainability across the organization with climate
+transparency and accountability on our sustainability                      our efforts on Inclusion, Diversity and Equity (IDE).                     action, CSRD, impacts, risks and opportunities being
+practices is growing amongst our clients.                                  In addition to IDE being a subject on KPMG Live,                          some key topics for FY2024. Several people from
+                                                                           we use other channels for internal communications                         both audit and advisory have completed The Norwegian
+                                                                           to communicate and share learnings.                                       Institute of Public Accountants’ sustainability academy.
+
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.                               Sustainability report 2023  8
+                                                                                                                                                                                                                       A message from our CEO
+
+                                                                                                                                                                                                                       General information
+
+
+
+
+Doublemateriality                                                                                                                                                                                                      Double materiality
+                                                                                                                                                                                                                       assessment in progress
+                                                                                                                                                                                                                                             Double materiality
+                                                                                                                                                                                                                        assessment in progress
+
+assessmentinprogress
+The CSRD requires that Public Interest Entities and
+large companies publish annual reports on social                          KPMG has recently revised our materiality assessment
+                                                                          which was previously only based on an impact                                                                                                 Environment
+                                                                                                                                                                                                                       Social
+and environmental topics related to their business,                       perspective in line with the GRI standard. To lay
+including their impacts as well as the risks and                          the grounds for our coming CSRD reporting we
+opportunities they are exposed to. The CSRD’s                             have performed a double materiality assessment in                                                                                            Inclusion, Diversity
+reporting requirements are detailed in the ESRS and                       accordance with the ESRS standards. Stakeholder                                                                                              and Equity initiatives
+are based on the requirement that companies conduct                       dialogue is an essential part of the process and
+a double materiality assessment.                                          KPMG therefore involved both internal and external
+                                                                          stakeholders in the process of identifying and                                                                                               Governance
+The double materiality assessment goes further than                       assessing impacts, risks and opportunities from an
+a single materiality assessment, insofar it aims to not                   Impact Materiality (inside-out) perspective and from
+only map how the company is itself affected by ESG                        a Financial Materiality (outside-in) perspective. KPMG
+risks and opportunities, but also how the company itself                  has in total consulted 19 internal stakeholders, clients
+impacts people and environmnet. The core distinction                      and organizations throughout the process.
+between single and double materiality is thus that the
+latter recognizes that organizations are not only affected                •    7 representatives from all business areas:
+by external factors but they themselves have a positive                        KPMG Law, Audit and Advisory
+or negative impact on their surroundings.                                 •    Clients & Markets
+The process for the double materiality analysis is                        •    People & Culture
+described in the ESRS and includes evaluating impacts,                    •    Procurement
+risks, and opportunities related to a company’s
+business relationships and value chain, as well as in its                 •    QRM & Independence                                                    Our material topics will be subject to further
+own operations. After conducting the double materiality                   •    Clients and business partners                                         discussion in KPMG’s management in 2024 with
+analysis, companies must report what the resulting                                                                                                   the result being presented in our Sustainability
+material topics are and how they manage the material                      •    External non-governmental organisations                               Report for FY2024.
+impacts, risks, and opportunities from both a strategic
+and operational perspective.
+
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.                              Sustainability report 2023  9
+                                                                                                                                                                                                                       A message from our CEO
+
+                                                                                                                                                                                                                       General information
+
+                                                                                                                                                                                                                       Double materiality
+
+EnvironmentEco Lighthouse. Our policy on environmental
+As a large, global and values-led organization,
+we recognize and embrace our responsibility to                            management ensures systematic efforts to reduce                                                                                              assessment in progress
+                                                                                                                                                                                                                       Environment
+                                                                                                                                                                                                                                  Environment
+quantify and mitigate the impact of our operations                        waste and energy-use and more as part of the
+and the services we provide. Globally, we want to                         environmental management system.                                                                                                             Social
+fully play our part in the transition to societal net-
+zero and help address the existential challenges of                       KPMG’s work on the external environment follows
+climate change, water pollution, deforestation and                        the Eco Lighthouse standard, and all of our offices,                                                                                         Inclusion, Diversity
+biodiversity loss. KPMG Global has science-based                          except the smallest five, are certified according to                                                                                         and Equity initiatives
+targets and KPMG Norway has been committed to                             the Eco Lighthouse criteria. Through the process
+these goals and targets since 2019. At the same                           of environmental certification, we identified
+time, we acknowledge the need to develop our                              environmental improvements that are relevant                                                                                                 Governance
+own targets and aim to get them approved by 2025.                         to us and we have developed procedures and
+In Norway, KPMG has a climate footprint through                           processes to implement, achieve and continuously
+emissions in Scope 1, 2 and 3 where travel is a                           review our environmental policies.
+large source of emissions. KPMG Norway also
+generates waste and emissions through the goods                           In order to reduce KPMGs emissions related to                              We do this by:
+and services we buy. The environmental chapter                            travel which stands for a significant part of our
+of this report covers our climate footprint and                           emissions, KPMG Norway’s travel policy was                                •     Promoting public transportation: Increasing the
+our journey towards getting further climate goals                         updated in 2023 and ensures that all business                                   share of public transport
+approved by the Science Based Targets Initiative.                         travel is done in a sustainable, efficient and safe
+Whilst increasing our efforts to address our                              manner. The updated policy encourages use of                              •     Having more digital meetings: By reducing
+emissions, we also compensate for our emissions.                          climate-friendly transportation options or use of                               employee travel, we will achieve the requirements
+                                                                          digital meetings. The policy instructs that 50% of                              in the sustainability plan for 2021-2025.
+Our policies and approach regarding the                                   all board and national management meetings are                            •     50% reduction in emissions based on 2019
+environment.                                                              to be held digitally in order to reduce emissions.                              figures, by 2030
+At KPMG the global impact plan is the guiding star                        Our travel policy aims to be a driver for green                           •     Individual accountability for climate - on average, a
+for our sustainability work. KPMG Norway adopts                           and environmentally friendly travel that has less                               10% reduction in personal consumption related to
+relevant ambitions and targets and adjusts these to                       negative impact on the environment.                                             work-related travel by 2023 (based on 2019 levels)
+the Norwegian context. KPMG Norway has made a
+local commitment to the goals and is also a certified
+
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.                             Sustainability report 2023  10
+Our•climate•footprint•in•FY2023•                                           This is caused by both a decrease in reported                              Of this, the most substantial increases have
+                                                                           electricity consumption in FY2023, and by                                  been generated from air travel and hotel stays.                    A message from our CEO
+Our climate footprint is reported annually, based on our                   using a lower emissions factor. In 2022 we                                 With regards to air travel, there has been an
+financial year which goes from October to September,                       used an emission factor (0.026 kgCO2e/kWh)                                 increase from 841,7 tons of CO2 equivalents
+and includes Scope 1, Scope 2, and a partial Scope 3                       from Cemasys to calculate the emissions from                               in FY2022 to 1079 tons in FY2023. For hotel                        General information
+assessment for our offices in Norway. Our emission                         electricity consumption, but for FY2023 we used                            stays, the increase was from 8.55 tons of CO2
+calculations include all greenhouse gases covered by                       the emission factor (0.019 kgCO2e/kWh) for                                 equivalents in FY2022 to 61.72 tons in FY2023.
+the Kyoto Protocol and are based on the Greenhouse                         average emissions in the Norwegian power grid                              These increases can be attributed to both an                       Double materiality
+Gas Protocol but are not fully in-line with the guidance                   from NVE (The Norwegian Water Resource and                                 increase in business travel after two years of                     assessment in progress
+due to some activity data being unavailable.                               Energy Directorate). This was done because the                             travel restrictions due to the Coronavirus, and an
+                                                                           latter emission factor was deemed to be more                               increase in the number of employees. Moreover,
+In FY2023 we emitted a total of 1284 tons of CO2                           representative for the Norwegian Power grid.                               there was a decrease in mileage from 55.25 tons                    Environment
+                                                                                                                                                                                                                                    Environment
+equivalents across scopes 1, 2, and 3. This is an                                                                                                     of CO2 equivalents in FY2022 to 33.19 tons of CO2
+increase of approximately 23 percent compared to                           Moreover, there was a significant decrease in                              equivalents in FY2023.
+FY2022.                                                                    emissions from district heating from 24 to 15.6                                                                                               Social
+                                                                           tons of CO2 equivalents from FY2022 to FY2023.
+Reasons for changes in emissions and data                                  This is both due to lower use of district heating in                       Data limitations related to business travel:
+limitations                                                                addition to a change in emission factor from (0.014                        •    There is no data on the use of taxis for business             Inclusion, Diversity
+There are certain reasons for changes in emissions                         kgCO2e/kwh) to (0.011 kgCO2e/kwh).                                              travel as this is hard to quantify.                           and Equity initiatives
+from FY2022 to FY2023, and data limitations that have
+limited the accuracy of our climate accounting that will                   Moreover, there is also a marginal decrease in                             •    Our flight data is incomplete as not all flights,
+be described below:                                                        emissions from district cooling from 0.04 tons to                               for instance for certain social events, are                   Governance
+                                                                           0.037 tons of CO2 equivalents in FY2023.                                        booked through our travel provider (Egencia).
+Scope 1:                                                                                                                                                   Our climate accounting for flights only covers
+                                                                           Data limitations scope 2:                                                       flights booked through Egencia.
+There is a slight increase in the use of natural gas
+for heating from 5.04 in FY2022 to 6.68 tons of CO2                        With regards to data limitations, five of our 23                                For waste, there was a decrease in emissions
+equivalents in FY2023. Only the Haugesund office                           offices are not Eco Lighthouse certified because                                from 18.16 tons of CO2 equivalents in FY2022
+uses natural gas for heating.                                              of their very limited size (7 employees or less).                               to 18.06 tons in FY2023.
+                                                                           Accordingly, these five offices have not reported the
+Scope 2:                                                                   amount of electricity and district heating used in                         Data limitations related to waste:
+                                                                           FY2023. However, it is important to note that these                        •    Our waste data is limited. Our headquarters are
+In total, there was a significant decrease in scope                        are smaller offices and are not expected to have a                              located in a shared building where we are not
+2 emissions from 112.5 tons of CO2 equivalents                             material impact on our overall energy consumption.                              able to get data on our own waste generation.
+in FY2022 to 80.7in FY2023. This number is based                                                                                                           It is therefore likely that the waste generated by
+on using a location-based method for measuring                             Scope 3:                                                                        the building has been inaccurately attributed. For
+electricity emissions.                                                                                                                                     simplification, our waste is only weighed twice
+                                                                           With regards to scope 3 emissions there was a                                   a year. This is assumed to be representative of
+Of this decrease, the most notable one was the                             total increase from 927 tons of CO2 equivalents                                 a normal day, and we extrapolate to get total
+decrease in our Scope 2 emissions for electricity                          in FY2022 to 1196 tons in FY2023.                                               waste volumes for the year.
+emissions from 88.5 tons of CO2 equivalents in
+FY2022 to 65.1 tons of CO2 equivalents in FY2023.
+
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.                               Sustainability report 2023  11
+                                                                                                                                                             Emission factors used:
+   2023 Emissions                                                                 Emissions 2019-2023                                                        For our reporting we have mainly used emission                       A message from our CEO
+                                                                                        2023Emissions                                                        factors provided from the UK DEFRA (Department
+                                                                                                                                                             for Environment, Food & Rural Affairs) in the
+                                                                                                         4,03              6,7                               document “UK Government GHG Conversion Factors                       General information
+                                                                                          18,06                                                              for Company Reporting 2023”. In addition, when
+                                                                                                                                            65,14
+                                                                                         33,19                                                               calculating electricity emissions, we have used
+                                                                                                                                              15,60          NVE’s (The Norwegian Water Resources and Energy                      Double materiality
+                                                                                         61,72                                                               Directorate) information on the emissions associated                 assessment in progress
+                                                                                                                                                             with power generation in the Norwegian power grid.
+
+                                                                                                                                                                                                                                  Environment
+                                                                                                                                                                                                                                             Environment
+                                                                                                                                                             How•we•address•our•emissions•
+                                                                                                                               1 079,16                      Through our environmental management system,                         Social
+                                                                                                                                                             KPMG has implemented specific environmental
+                                                                                                  Fossile fuels                Electricity                   measures for the most significant aspects that affect
+                                                                                                   Heating/Cooling             Air travel                    our environment. Here are some examples:                             Inclusion, Diversity
+       Totalt Scope 1         Totalt Scope 2         Totalt Scope 3                                Other travel                Hotel stays                                                                                        and Equity initiatives
+            2019        2020         2021         2022        2023                                                                                           •    Waste management:
+                                                                                                                                                                  »  Return schemes for paper, batteries,                         Governance
+                                                                                                                                                                     and electronic waste
+                                                                                                                                           Change                 »  Collection of electronic and electrical waste
+  Key performance indicators                                 2018         2019         2020         2021         2022        2023        2022-2023                   (EE waste)
+                                                                                                                                                                  »  Reuse or repair of office furniture, recycling,
+  GHG emissions tCO2e                                      1,558.0        751.3        563.5       323.7       1,044.6      1,283.9          23 %                    or resale/purchase of used furniture
+  (location-based)                                                                                                                                           •    Reduced consumption:
+  GHG emissions tCO2e                                                                                                       2,280.5                               »  Electronic processing of invoices
+  (market-based)                                                                                                                                                  »  Only electronic course materials
+  GHG emissions per employee                                  1.28        0.65          0.42        0.23         0.58         0.69           19 %                 »  Electronic Christmas cards
+                                                                                                                                                                  »  Smart print solutions on all our copiers/printers
+  Total energy consumption (MWh)                             3,766        5,650        3,804       3,438        5,209        3,159           - 6 %                »  Automatic lights off every other hour after
+                                                                                                                                                                     regular working hours
+  Energy consumption per m2                                  0.11         0.18          0.14        0.11         0.16         0.15           - 6 %                »  Environmental due diligence for procurement
+                                                                                                                                                                     of supplies and equipmen
+This table shows the KPIs we have used over the last years to track our climate impact. In 2024 we will set specific
+emission targets and this KPI list will be updated to allow us to best track our progress towards those goals.
+
+ © 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.                                       Sustainability report 2023  12
+•    Reduced travel:                                                        We will in the years to come search for genuine
+     »  Introduction of a strict travel policy,                             and additional mitigation initiatives, and support                                                              A message from our CEO
+        internal meetings are preferably held digitally                     these at prices that reflect the actual cost of
+                                                                            reducing carbon emissions and implementation –
+     »  Increased use of tele-, web-, and video                             rather than at prices that are generated through                                                                General information
+        conferencing, as well as continuous updates                         carbon markets. Our aim with this course of action
+        of equipment/facilities                                             is to catalyze financing into climate action, and to
+     »  More web-based training                                             support innovation within some of the solutions                                                                 Double materiality
+                                                                            we depend on to solve the climate crisis.                                                                       assessment in progress
+     »  Employees are encouraged to use public
+        transportation to/from work, and we also
+        have bicycle parking and shower facilities.                         How•KPMG•is•protecting•forests••                                                                                Environment
+                                                                                                                                                                                                       Environment
+                                                                            with•Fossagrim
+•
+KPMGs•net-zero•climate•targets                                              Background                                                                                                      Social
+KPMG has decided to establish science-based climate                         The issue of climate change and the need for climate
+targets, and to commit to the SBTi net-zero standard.                       action has been high on the agenda for many years.                                                              Inclusion, Diversity
+This decision reflects a shift in our strategic approach                    There is now a growing understanding among policy                                                               and Equity initiatives
+to reduce climate emissions and in our understanding                        makers, businesses, and the public of the importance
+of our own responsibility for taking climate action.                        of combining climate action with the protection of
+With climate targets according to the SBTi guidelines,                      nature and biodiversity.                                                                                        Governance
+KPMG will need to take more responsibility to ensure
+direct emissions reduction and climate action within                        KPMG has therefore chosen to support a new
+our own operations and activities.                                          initiative that provides a mechanism for addressing
+                                                                            both concerns at the same time.
+Our focus will be on reducing our direct and indirect
+climate impact, not on offsetting emissions through                         Forests offer an immediately accessible and cost-
+external and voluntary mechanisms. Part of this                             effective contribution to carbon uptake and storage
+strategic shift has therefore been to revise our                            referred to as sequestration. Simply allowing existing
+approach and practice when compensating for our                             forests to mature through preservation would have
+emissions. We wish to move from compensating                                the potential to digest and store 139 Gt of carbon. As
+for our emissions to actually addressing our own                            a comparison, annual global emissions are estimated
+emissions. Support to projects and initiatives                              at around 50 Gt CO2e. Forest preservation further
+outside our own value chain will no longer be                               contributes towards nature-positivity by halting and
+provided as offsets linked to our carbon footprint,                         reversing the negative impacts of intensive forestry on
+but rather done as additional and stand-alone                               species and ecosystems. The problem is to ensure the
+climate mitigation measures. KPMG has decided                               additionality and permanence of forest preservation
+to maintain a level of such mitigation investments                          efforts, and a scientifically precise approach to
+similar to what we did before, even though we no                            calculating the carbon effect. This is the problem that
+longer need them as part of our net-zero strategy.                          Fossagrim has developed a mechanism to resolve.
+
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.  Sustainability report 2023  13
+Challenge                                                                  The solution                                                              What we did
+81 percent of the total forest and tree covered                            Norwegian start-up Fossagrim has developed a                              KPMG has purchased credits ensuring that a                         A message from our CEO
+land in Norway are productive forest areas owned                           framework that allows forests to be valued beyond                         mature and highly valuable forest in Seljord
+by private families. These families depend on the                          their real estate and timber values. This is done                         is now dedicated to preservation instead of
+timber assets in the forests as an integral part of                        by considering their capacities to sequester CO2,                         harvesting. Through financial support from KPMG                    General information
+their household economy and farming activities.                            with nature-positive co-benefits that include the                         and Gjensidige, the Kvistaul area, in Åmotsdal in
+84,5 percent of average annual tree felling is carried                     preservation of biodiversity and the regulation                           Seljord was not harvested in January 2024, as
+out on forest properties owned by such individual                          of soil- and water conditions. Fossagrim enables                          originally scheduled. The family will instead be able              Double materiality
+families. For many of these families, choosing to                          forest owners to dedicate valuable forest areas to                        to preserve this area as a lush and natural forest                 assessment in progress
+let a forest area stay untouched has significant                           these “soft values” while at the same time also                           with grand spruce trees over 140 years. Kvistaul
+negative impact and is regarded as irresponsible                           generating high long-term value for current and                           will act as a carbon sink and can, as it slowly
+stewardship of generational resources.                                     coming generations. Through well recognized,                              develops towards a natural forest, continue to                     Environment
+                                                                                                                                                                                                                                   Environment
+                                                                           science-based models for forest carbon pools, the                         sequester more and more carbon in the ecosystem
+                                                                           CO2 benefits are valuated and documented while                            for hundreds of years.
+                                                                           forest owners are compensated based on the real                                                                                              Social
+                                                                           market value of the resources and areas.                                  Results
+                                                                           Fossagrim facilitates that forest owners are                              The family that owns the Kvistaul area has                         Inclusion, Diversity
+                                                                           compensated for preservation of forest areas and                          committed to contractual restrictions on harvesting                and Equity initiatives
+                                                                           provides assurance of permanence for the investor,                        from not only Kvistaul, but also from harvesting
+                                                                           through a contractual framework and a certificate                         in other areas beyond the limitations of what the
+                                                                           proving Buyer’s unique contribution for this purpose                      owner would otherwise have harvested if the                        Governance
+                                                                           (with the benefits expressed in high-quality Nature-                      protection initiative had not been established.
+                                                                           Positive Carbon Credits (NPCC)). Fossagrim’s
+                                                                           Science Advisory Board validates calculation                              KPMG has contributed to the reduction of
+                                                                           methodology and models for NPCC calculations.                             greenhouse gases and increased protection
+                                                                                                                                                     of nature and biodiversity in a concrete and
+                                                                           CO2 benefits are established through a                                    measurable way by preserving forests in Kvistaul
+                                                                           conservative methodology, ensuring confidence                             (Seljord). The long-term effect is recalculated to
+                                                                           that Fossagrim’s projects have significant, additional                    an annual climate benefit over a 30-year period,
+                                                                           climate benefits – beyond the documented effect.                          which for 2024 is estimated to 187 t CO2e.
+                                                                           Such additional climate benefits might gradually                          KPMG is proud of supporting this documented
+                                                                           be co-documented as the scientific understanding                          climate impact, but we are perhaps even more
+                                                                           of carbon processes below ground improves or                              enthusiastic about supporting the launch of a new
+                                                                           when our frameworks for quantifying and valuating                         solution that we believe can have considerable
+                                                                           biodiversity effects and ecosystem services mature.                       impact in the years to come.
+                                                                           This is currently not possible.
+
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.                              Sustainability report 2023  14
+                                                                           The•way•forward•                                                                                                                              A message from our CEO
+
+                                                                           GHG-climate accounting
+                                                                           Throughout 2024 we will work to improve the                               In addition to setting science-based targets in order               General information
+                                                                           quality of our activity data and bring our greenhouse                     to track and reduce our emissions, KPMG will also
+                                                                           gas accounting in line with the Greenhouse Gas                            conduct a climate-risk analysis during 2024 as part
+                                                                           Protocol guidelines. Specifically, we will focus                          of our preparations to report in line with CSRD.                    Double materiality
+                                                                           on ensuring complete data to calculate scopes 1                                                                                               assessment in progress
+                                                                           and 2, and we aim to do a complete mapping of
+                                                                           our scope 3 emissions with a particular focus on                          Climate risk
+                                                                           purchased goods and services. As we are moving                            KPMG recognizes climate change as a key business                    Environment
+                                                                                                                                                                                                                                    Environment
+                                                                           to new offices in April/May 2025, our scope 1 and 2                       risk and we are already experiencing its impact.
+                                                                           emissions including waste are likely to significantly                     Like many other global organizations, we are on
+                                                                           decline. We will use FY 2024 as our base year for our                     a journey when it comes to climate change. A                        Social
+                                                                           emissions reduction targets and submit our targets                        key milestone in this journey is the publication of
+                                                                           to SBTi within the two-year deadline.                                     KPMG International’s first Climate Risk Report —
+                                                                                                                                                     aligned with Task Force on Climate-related Financial                Inclusion, Diversity
+                                                                                                                                                     Disclosures (TCFD) recommendations.                                 and Equity initiatives
+                                                                           Science-Based Targets
+                                                                           KPMG Global has developed a carbon forecasting                            This Climate Risk Report presents KPMG’s climate-
+                                                                           model to map the sources and impacts of our                               related risks and opportunities. These include our                  Governance
+                                                                           emissions in order to understand what we need to                          exposure to both physical risk — extreme weather
+                                                                           do to accelerate decarbonization. As a result, we                         events and the impact on our people, operations
+                                                                           have set a global commitment to become a net-zero                         and supply chain — and transitional risks which
+                                                                           carbon organisation by 2030. This means that we will                      assesses the impact of moving to a low-carbon net-
+                                                                           cut greenhouse gas emissions (direct and indirect) by                     zero economy and how we can support our clients
+                                                                           50% by 2030 as part of a 1.5°C Science-Based Target                       with this change.
+                                                                           in line with the Paris Agreement.
+                                                                                                                                                     The report also provides insights into the
+                                                                           KPMG AS submitted our commitment letter to SBTi                           challenges we face and areas of importance as
+                                                                           in Q1 of 2023, and we are planning to submit our                          we move toward 2030 and our long-term net-zero
+                                                                           targets for final verification within the deadline Q1                     ambition. Climate related risks and opportunities
+                                                                           2025. KPMG Norway is currently working on the                             already affect many of our clients, and KPMG
+                                                                           climate transition plan that will capture both our                        Norway will conduct its own analysis in 2025
+                                                                           ambitions and targets, and our priority actions and                       to better understand our local exposure to
+                                                                           measures. This climate transition plan will underpin                      climate risk. KPMG AS’ analysis will build on and
+                                                                           our short term and net-zero goals under SBTi.                             complement the globale climate risk report.
+
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.                               Sustainability report 2023  15
+                                                                                                                                                                                                                          A message from our CEO
+
+                                                                                                                                                                                                                          General information
+
+                                                                                                                                                                                                                          Double materiality
+
+Social
+We are a people-centered business. Our core
+purpose is to cultivate and develop the best talent.                       We aim to provide our people with meaningful
+                                                                           and impactful work and help them develop their                                                                                                 assessment in progress
+                                                                                                                                                                                                                          Environment
+This benefits not only our organization but also our                       careers within an inclusive, diverse, rewarding and
+clients, communities and the environment. Positive                         supportive culture. In a fast-changing and uncertain                                                                                           Social
+                                                                                                                                                                                                                                Social
+influence on the society and the world is core to                          world, we place a high priority on acquiring new
+our business. By continuously and systematically                           skills across multiple disciplines to adapt and grow,
+examining our influence on others, we address areas                        as part of a lifetime of learning. Our people are                                                                                              Inclusion, Diversity
+of improvement. When the best people build a career                        encouraged to come as they are and bring their                                                                                                 and Equity initiatives
+with us, we can all thrive: our clients, our colleagues,                   unique experiences and perspectives to deliver
+our communities and our planet. KPMG have an                               insights and innovation. They are recognized for the
+impact on people whether it being our employees,                           difference they make, the leadership they show and                                                                                             Governance
+people in the supply chain, people that we interact                        the success they create for our clients and society.
+with through our clients and business partners. We
+have an obligation to make sure that our impact is                         KPMG Norway is represented by around 1,850 staff and
+positive, and we have the opportunity to improve                           127 partners distributed across 23 offices (figures as of
+that impact by constantly and systematically look for,                     30 September 2023). KPMG Norway delivers services
+and understand, those impacts.                                             in the three business areas Audit, Advisory and Law.
+                                                                                                                                                      This provides the opportunity to monitor year-on-year
+Through our double materiality assessment, we are                          We act on the insights and feedback from our people,                       progress as well as identify areas where we need to
+currently gaining more insight into our value chain                        using it to inform our long-term people strategy and                       direct immediate focus.
+and stakeholders that are or might be affected by                          immediate priority areas including issues such as
+our activities.                                                            ways of working, health and well-being, learning                           Our employees thrive and grow during their years
+                                                                           and development, career opportunities, and Inclusion,                      at KPMG, and surveys show that our employees
+                                                                           Diversity and Equity. We listen to our people by                           especially value learning and developing their
+Our•people•                                                                giving everyone an opportunity to share their                              careers as well as the social aspects of working
+                                                                           views in our annual global engagement survey                               in KPMG. On the other hand, KPMG’s primary
+Our people make the real difference and are                                and targeted pulse surveys, in addition to                                 occupational health risks relates to stress
+instrumental in shaping the future at KPMG. We                             ongoing activities in each department to foster                            management and various strain injuries. We
+put quality and integrity at the core of our practice.                     an inclusive and engaging working environment.                             continuously work towards better gender balance.
+
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.                                Sustainability report 2023  16
+Our policies and approach                                                   How we engage with our workforce                                           KPMG has a working environment committee (AMU)
+regarding our own workforce                                                 We are entirely dependent on our employees                                 consisting of an equal number of representatives                    A message from our CEO
+KPMG Norway is continuously working to ensure that                          thriving at work. Therefore we are actively working                        from management and employees. Management
+we uphold fundamental human rights and decent                               to cultivate a culture that supports this. To ensure                       representatives are appointed by the CEO, while
+working conditions, both within our own operations                          that we as a company can meet the expectations                             employee representatives are delegates from KPMG                    General information
+and throughout our value chain. We have also                                of our employees, we recognize the importance of                           AS and KPMG Law, as well as a third representative
+committed to the UN Global Compact and annually                             facilitating dialogue and channels where employees                         elected by the employees. The committee meets
+deliver a Communication on Progress (COP) for various                       can express their thoughts freely.                                         quarterly and during the reporting year. It has among               Double materiality
+sustainability indicators, including human rights and                                                                                                  other topics discussed issues regarding work-life                   assessment in progress
+working conditions. In parallel with the policies listed                    One of our tools for gathering employee feedback                           balance and working time, arrangements for parents,
+below, our values represent who we are and what we                          is the annual Global People Survey (GPS).                                  fire safety routines and temperature control in office
+believe in. Integrity, Excellence, Courage, Together and                    This is a confidential survey where we gather                              buildings. Furthermore, the committee participates                  Environment
+For Better guides our everyday work.                                        feedback and measure employee satisfaction                                 in the planning of safety and environmental work
+                                                                            amongst employees and partners. The survey                                 and monitor developments in matters concerning
+Our Code of Conduct defines the standard for ethical                        addresses various categories such as diversity,                            the health, safety and welfare of our employees.                    Social
+                                                                                                                                                                                                                                 Social
+behavior of all employees within KPMG, outlining                            inclusion, well-being, learning and leadership, and                        Throughout the year, the committee also keeps up
+what it means to work here, as well as our individual                       provides insights into our strengths and areas for                         with reporting and monitoring of sick-leave, turnover,
+and collective responsibilities. At KPMG, there is                          improvement going forward.                                                 overtime and HMS-issues.                                            Inclusion, Diversity
+a zero tolerance for discrimination, bullying, and                                                                                                                                                                         and Equity initiatives
+harassment. We value diverse experiences and new                            For FY2023, the response rate for the GPS was                              In addition to the above-mentioned measures, KPMG
+perspectives and believe that they contribute to                            79% and insights from the GPS helped us better                             established theNext Generation Sounding Board
+better solutions both for us and our customers. This                        understand the opportunities for growth and areas                          2021. This is a forum consisting of some of our highly              Governance
+approach is also reflected in our Inclusion, Diversity                      of improvement when it comes to creating the best                          talented employees that are next generation leaders.
+and Equity (IDE) policy, which is incorporated into                         possible work experience. Moving forward, we                               The Sounding Board meets approximately once a
+our overall business strategy. Our IDE-policy puts a                        will work on challenges linked to workload, internal                       month and is an asset of insight for our corporate
+particular focus on promoting diversity and preventing                      communication, and leadership development. Our                             management. Through the Sounding Board we get
+discrimination in all our people processes, fostering                       business areas have defined actions based on focus                         a better understanding of challenges ahead and how
+an inclusive work environment where everyone can                            areas that must be addressed all in relevance to the                       to counter them as well as a more diverse mindset.
+thrive, and building trust while empowering change in                       challenges identified.                                                     well as a more diverse mindset.
+our partnerships and client relationships.
+                                                                            Although the GPS provides valuable insight to the                          Finally, KPMG seeks to foster a learning culture
+At KPMG, we systematically address health, safety and                       state of mind of our employees, Pulse surveys                              where we continually strive to learn new things,
+environment (HSE) issues to ensure a healthy physical                       were introduced in 2021 to gain insight into what                          stay curious, and make sure that each employee can
+and psychosocial work environment. We integrate HSE                         is happening within the organization and to receive                        achieve his or her ambitions. To underpin this, we have
+into all company activities, focusing on preventing sick                    feedback on specific areas, allowing us to implement                       a tailored employee development process backed
+leave and accommodating those with special needs. We                        improvement measures continuously. Workload,                               by performance managers who support employees
+regularly monitor and map the physical and psychosocial                     stress, and work-life balance are constant topics,                         in their career development. Performance managers
+work environment to ensure that we prioritize the best                      supplemented by ad-hoc topics that have been                               serve as role models for our employees and they are
+preventive measures. All employees at KPMG are also                         identified as important to handle. In 2023, some of the                    crucial for our professional and personal development.
+covered by our insurance agreements, giving them                            actions implemented pertained to the creation of more                      As a minimum, all employees have conversations with
+access to use physical and psychological health support.                    effective processes and tools for monitoring workload.                     their respective performance manager quarterly.
+
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.                                 Sustainability report 2023  17
+Through these conversations, employees are given                            Everyone at KPMG is required to report any activity                          we have a local whistleblower channel available
+the opportunity to both give and receive feedback,                          that may be potentially illegal or contrary to our values,                   to KPMG’s partners and employees, customers                         A message from our CEO
+update, or redefine development goals, or just                              KPMG’s policies, or applicable laws, regulations, or                         and other third parties, where concerns about the
+have a casual check-in. Moreover, this employee                             professional standards. The KPMG International Hotline                       behavior of others, both internally and externally,
+development process is supported by digital                                 is a channel that KPMG employees, customers, and                             can be reported confidentially. Reports are directed                General information
+platforms that ensure sufficient documentation of                           other third parties can use to confidentially report                         to the third-party organization Clearview Strategic
+the ongoing dialogue and review.                                            concerns they may have regarding certain areas of                            Partners and matters can be reported anonymously
+                                                                            activity within KPMG international, as well as activities                    and without fear of retaliation.                                    Double materiality
+                                                                            among KPMG employees.                                                                                                                            assessment in progress
+Channels to raise concerns /
+Whistleblower channels.                                                     All reports received via the KPMG International                              Physical health initiatives
+We are committed to upholding the highest standards                         Hotline are taken seriously, and KPMG International                          KPMG Norway supports and encourages employees                       Environment
+of personal professional conduct in everything we                           will assess how to respond, investigate, and take                            to get involved in physical activity through our
+do. Ethics and integrity are ingrained in our core, with                    appropriate action as necessary.                                             employee-run sports club, KPMG Puls. The activities
+yearly mandatory trainings. We of course also expect                                                                                                     vary from running and skiing sessions with                          Social
+                                                                                                                                                                                                                                   Social
+all employees to adhere to our Code of Conduct.                             KPMG Norway has established clearly defined                                  professional instructors, to climbing, football and
+Employees are strongly encouraged to speak up if                            channels that KPMG employees and third parties                               other sports. KPMG Puls also facilitates employee
+they become aware of anything that makes them feel                          can use to inquire, raise concerns, provide feedback,                        participation in major sporting events with the aim of              Inclusion, Diversity
+uncomfortable or that is not in line with our ethical                       and report possible misconduct, without fear of                              driving employee engagement.                                        and Equity initiatives
+guidelines or values.                                                       retaliation. In addition to the International Hotline,
+
+                                                                                                                                                         Key figures for our employees                                       Governance
+                                                                                                                                                         Employment and turnover
+
+                                                                                                                                                         KPMG has a culture that emphasizes full-time
+                                                                                                                                                         employment and supports employees in maintaining
+                                                                     KpMGI                                                                               full-time positions. Although this is the norm, 1,5 % of
+                                                      RPMG                                 RPWE                                                          employees at KPMG AS works part-time, whereas 1,3
+                                                                                                                                                         % are women and 0,3 % are men. The option to work
+                                                                                                                                                         part-time is offered as part of our accommodation
+                                                                   EMG HUSE                                                                              for employees in different life stages. In 2022,
+                                                                                                                                                         we analyzed whether any of our employees were
+                                                                                           KP                 Begal aquclung                             involuntarily working part-time positions.
+                                                                                                                                                         The survey indicated that none of the respondents
+                                                                                                                                                         were involuntarily in such positions. Given this, and
+                                                                                                                                                         the overall low proportion of part-time employees,
+                                                                                                                                                         we decided not to conduct another survey in 2023.
+
+                                                                                                                                                         As per September 2023, the total turnover for
+                                                                                                                                                         KPMG AS were 15,4 %: 15,9 % for men and 14,7 %
+                                                                                                                                                         for women.
+
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.                                   Sustainability report 2023  18
+Gender balance and wage equality
+                                                                                                                                                                                            A message from our CEO
+KPMG has a goal of achieving a 50% gender balance
+across the company. We are experiencing the largest
+gaps between female and male employees at senior                                                                                                                                            General information
+levels, while there is a relatively equal distribution at
+both Associate, Senior Associate and Manager levels.
+KPMG is actively working to enhance the gender                                                                                                                                              Double materiality
+balance in leading positions at Director- and Partner                                                                                                                                       assessment in progress
+levels. These levels are currently predominated by
+men. KPMG’s goal is to achieve 30% female partners
+by 2030, and during the reporting year we have been                                                                                                                                         Environment
+working on finalizing supplementary goals regarding
+gender balance throughout all our work processes.
+This relates for example to principles for gender                                                                                                                                           Social
+                                                                                                                                                                                                  Social
+balance in all of our tenders and project teams.
+
+To develop and retain existing competence and                                                                                                                                               Inclusion, Diversity
+recruit qualified employees, we offer competitive                                                                                                                                           and Equity initiatives
+remuneration packages. We regularly monitor wage
+equality within the organization, and in 2023, a pay
+gap analysis has been carried out to provide an                                                                                                                                             Governance
+account on gender equality as required by Norwegian
+law. The results are demonstrated in the table below.
+We note that the analysis of bonus and overtime was
+carried out for the first time in 2023, and numbers for
+these indicators are therefore not comparable with or
+reported for in earlier years.
+
+At KPMG AS there are no noticeable disparities
+in base wage between men and women in FY23.
+Gender disparities become more pronounced
+when considering overtime and bonuses. Men
+work more overtime than women at the Associate
+and Senior Associate levels, resulting in higher
+overtime payouts. With regards to bonuses for
+Managers and Directors, women are on average
+rewarded with a lower bonus than men.
+
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.  Sustainability report 2023  19
+  Gender distribution                                                                                                   Average base pay 2021                            Average overtime
+  2021                                                                                                                                                                   and bonus                   A message from our CEO
+
+  Level                        Women                         Men                          Total                         Men                           Women              Women
+                                                                                                                                                      (in % of men)      (in % of men)               General information
+  Associate                    50 %                          50 %                         344                           100 %                         102 %
+  Senior Associate             54 %                          46 %                         330                           100 %                         102 %                                          Double materiality
+  Manager                      48 %                          52 %                         235                           100 %                         90 %                                           assessment in progress
+  Senior Manager               32 %                          68 %                         159                           100 %                         100 %
+  Director                     24 %                          76 %                         126                           100 %                         97 %
+  Partner                      18 %                          82 %                         118                           100 %                         IA                                             Environment
+  Total                        43 %                          57 %                         1285                          IA                            IA
+  Gender distribution                                                                                                                                                    Average overtime            Social
+                                                                                                                                                                                                           Social
+  2022                                                                                                                  Average base pay 2022                            and bonus
+  Level                        Women                         Men                          Total                         Men                           Women              Women                       Inclusion, Diversity
+                                                                                                                                                      (in % of men)      (in % of men)               and Equity initiatives
+  Associate                    46 %                          54 %                         478                           100 %                         99 %
+  Senior Associate             53 %                          47 %                         370                           100 %                         97 %
+  Manager                      52 %                          48 %                         266                           100 %                         98 %                                           Governance
+  Senior Manager               38 %                          62 %                         185                           100 %                         98 %
+  Director                     22 %                          78 %                         135                           100 %                         97 %
+  Partner                      22 %                          78 %                         99                            IA                            IA
+  Total                        44 %                          56 %                         1553                          IA                            IA
+  Gender distribution                                                                                                   Average base pay 2023                            Average overtime
+  2023                                                                                                                                                                   and bonus
+  Level                        Women                         Men                          Total                         Men                           Women              Women
+                                                                                                                                                      (in % of men)      (in % of men)
+  Associate                    49 %                          51 %                         592                           100 %                         100 %              76 %
+  Senior Associate             53 %                          47 %                         372                           100 %                         98 %               76 %
+  Manager                      49 %                          51 %                         286                           100 %                         99 %               80 %
+  Senior Manager               41 %                          59 %                         184                           100 %                         98 %               95 %
+  Director                     21 %                          79 %                         163                           100 %                         99 %               66 %
+  Partner                      20 %                          80 %                         106                           IA                            IA                 IA
+  Total                        45 %                          55 %                         1703                          IA                            IA                 IA
+
+Table: gender balance and average pay 2021-2023v
+
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.           Sustainability report 2023  20
+                                                                                                                                                                                                              A message from our CEO
+
+                                                                                                                                                                                                              General information
+
+
+
+
+                  Inclusion,Diversity                                                                                                                                                                         Double materiality
+                                                                                                                                                                                                              assessment in progress
+
+                  andEquityinitiatives
+                  At KPMG, we believe that Diversity, Equity
+                  & Inclusion (IDE) underpins our Values and is                            These initiatives play a pivotal role in empowering
+                                                                                           our employees in becoming agents of change.                                                                        Environment
+                                                                                                                                                                                                              Social
+                  vital to our Purpose; to Inspire Confidence and                          Here are some examples of what we have done.
+                  Empower Change, and we work hard to create
+                  a safe and inclusive work environment that is                                                                                                                                               Inclusion, Diversity
+                                                                                                                                                                                                                                  Inclusion, Diversity
+                  free from harassment, intimidation, bullying,                            International Women’s Day                                                                                          and Equity initiatives
+                                                                                                                                                                                                                                    and Equity initiatives
+                  and discrimination.                                                      On the 8th of March we celebrated the International
+                                                                                           Women’s Day, an important day to both remember
+                  We know that our people, our clients and the                             and celebrate the women’s rights movement. This                                                                    Governance
+                  broader society expect us to have a clear and robust                     year we wanted to shed light on the fact that nearly
+                  IDE agenda. This year, we have carried out a range                       40 % of our female employees quit after advancing
+                  of activities and implemented various initiatives to                     into leader roles. To reach our goals on inclusion,
+                  increase focus and support around IDE.                                   diversity and equity we need to measure not only
+                                                                                           our successes, but also our failures. In this particular
+                  Our hope is that our IDE work will help attract and                      place, we need to understand why female leaders
+                  retain diverse talent that is representative of the                      resign, at what stage in their career they do so
+                  world that we live in and create an environment                          and what we can do to change this pattern. As our
+                  where all perspectives are encouraged as we solve                        employees are our number one priority, this is of
+                  challenging issues and lead the way forward.                             paramount importance to KPMG.
+
+The report shows some of the activities and
+initiatives we have conducted in FY2023.
+
+As part of our ongoing strategic work on IDE we
+have several initiatives throughout the financial year.
+To read more about our work and to see the video
+we released in connection with International Women’s
+Day, please visit: Kvinnedagen - KPMG Norge
+
+
+
+                  © 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.  Sustainability report 2023  21
+Nordic Diversity Week                                                      The World Mental Health Day
+Together with our Nordic network we had our                                 The World Mental Health Day was another milestone                                                                                             A message from our CEO
+second Nordic KPMG Inclusion, Diversity & Equity                           for our work on inclusion. We marked the day by
+Summit in 2023. This event brings together member                          sharing e-learnings and insights on how you can be
+firms across the region to better understand and                           a good colleague to coworkers who are struggling,                                                                                              General information
+discuss how inclusion, diversity and equity shapes                         and by giving our colleagues a nice start on the day.
+today’s workforce and plays a critical role in how we                      The aim of our work was to reduce stigma concerning
+engage with our clients. The week provided insights                        a topic that is increasingly prevalent in society.                                                                                             Double materiality
+on why diversity is important and how we can break                                                                                                                                                                        assessment in progress
+our own biases. The reflections and insights provide
+further insight into our own work in KPMG Norway                           The International day of disabilities
+on Inclusion, Diversity and Equity.                                        On December 3rd, it was the International Day of                                                                                               Environment
+                                                                           Persons with Disabilities. We marked the day by
+                                                                           sharing three of our colleagues’ stories and thoughts
+Pride                                                                      on day-to-day and workplace challenges. Our goal                                                                                               Social
+KPMG Norway has proudly celebrated Pride since                             was to raise awareness about the various visible and
+2017, when we first raised the rainbow flag outside                        invisible barriers many people face.
+our headquarters. June marks the International                                                                                                                                                                            Inclusion, Diversity
+                                                                                                                                                                                                                                              Inclusion, Diversity
+Pride month. The terrorist attack in Oslo in 2022                                                                                                                                                                         and Equity initiatives
+                                                                                                                                                                                                                                                and Equity initiatives
+was a devastating reminder of just how important                           KPMG Junior
+it is to show support to the LGBTQ+ society. We                            We regularly invite employees who are on parental
+marked and celebrated Pride across our locations                           leave to an event where they can bring their children                                                                                          Governance
+with various initiatives aimed at creating awareness                       to a networking gathering at our premises. The
+and engagement and educating our colleagues.                               goal is for them to get to know each other, share
+Our goal was to make it easier for our colleagues to                       experiences, and make it easier for them to return                          IDE•collaborations•
+start the Pride conversation. We provided learning                         after their leave ends. In 2024, we organised two
+resources, handed out questions for reflection on all                      events in Oslo.                                                             KPMG is part of the Sammen om en Jobb (SAJO)
+our locations, arranged an afterwork with a lecture on                                                                                                 mentoring program. SAJO is a voluntary organization
+diversity, as well as a panel debate on Pride. We used                                                                                                 founded by Erlend Skarsgard Nyheim, Paloma
+our internal channels (KPMG Live, intranet, offices and                    Women’s Board Award                                                         León Campos and Vilde Thorsen Nord in 2017. The
+information screens) to share knowledge across our                         KPMG is a collaboration partner on Women’s                                  organization works for better integration and a more
+firm. We also changed our logo and flag to show our                        Board Award, an event that aims to elevate female                           diverse working life. The SAJO mentoring program
+support to the LGBTQ+ society.                                             board members and inspire more women to seek                                connects highly skilled immigrants and refugees with
+                                                                           participation in boards. The event was held in October                      mentors that have extensive business experience.
+We also marked the International Day of People with                        2022 and the winner was Linda Litlekalsøy Aase.                             Together they embark on a mentoring journey
+Disabilities with a video where three of our colleagues                    The award ceremony was held at Colosseum Kino in                            aimed at securing jobs in Norway. Eight mentors
+spoke about their disabilities. Our goal with these                        Oslo and focused on mental health and importance                            from KPMG have participated in the SAJO program.
+videos was to raise awareness about various visible                        of promoting and ensuring both physical and mental                          The KPMG mentors have Partner or Director-level
+and invisible challenges people face.                                      health amongst the companies’ employees.                                    experience from Audit or Advisory.
+
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.                                Sustainability report 2023  22
+Seema was founded by Loveleen Rihel Brenna to set                          People•in•our•value•chain                                                 Our policies and approach regarding people
+up a national standard and certification in diversity                                                                                                in our value chain                                                 A message from our CEO
+leadership. Seema also offers a variety of methods                         Business has a significant impact on people, society,                     KPMG has several policies to structure our work on
+and tools that guide us in our IDE efforts. KPMG’s                         climate, and the environment. These impacts affect                        human rights due diligence and approach to workers
+collaboration with Seema is strategically important                        people and communities beyond the boundaries                              in the value chain. We have a Process description for              General information
+to change culture and mindset in our organization.                         of KPMG’s own operations, and we recognize our                            due diligence that gives an overview over what steps
+In FY23 we cooperated with Seema to develop a                              responsibility to promote respect for fundamental                         to follow, what this implies for KPMG, and how these
+Diversity Index platform that helps organizations                          human rights and decent working conditions                                processes are integrated to our overall policies,                  Double materiality
+map their visible and non-visible diversity issues.                        throughout our value chain. We acknowledge that this                      systems and routines. Our Supplier Code of Conduct                 assessment in progress
+                                                                           responsibility is continuous and evolving, reflecting                     sets out our expectation that all suppliers comply
+Women’s Board Award (WBA) aims to identify and                             our ongoing commitments. For us, this dedication                          with OECD’s guidelines for responsible business
+promote female board members with the potential to                         extends beyond mere compliance. We aim to make                            conduct and the ILO’s core conventions on decent                   Environment
+become board chairs in larger companies. WBA was                           it an integral component of our sustainability efforts.                   work. Our Procurement guide describes decision-
+founded by Gunnar Eckbo, head of Styreinformasjon.                                                                                                   making levels, responsibilities, prerequisites, and
+One of KPMG’s strategic priorities is a better gender                      KPMG’s daily operations depends on a lot of products                      authorizations for all purchases to be made at KPMG.               Social
+balance in leadership positions, which is why our                          and services purchased from multiple suppliers                            All abovementioned policies are overseen and
+partnership with WBA is important. To us, this has                         nationally and internationally. We acknowledge                            followed up by KPMG Norway’s CFO and the
+been an important arena for networking and highlight                       that there are risks of human rights breaches in our                      procurement lead.                                                  Inclusion, Diversity
+                                                                                                                                                                                                                                            Inclusion, Diversity
+female role models.                                                        supply chain, and we must set high standards and                                                                                             and Equity initiatives
+                                                                                                                                                                                                                                              and Equity initiatives
+                                                                           establish effective procedures to address situations                      Furthermore, KPMG has published a Global Business
+In October 2022, we had the honor of hosting the                           where this might be the case. Throughout our work                         and Human Rights Statement in line with the UN’s
+Board Member of the Year award. The award was                              with human rights due diligence assessments, we                           guiding principles on business and human rights.                   Governance
+presented to Linda Litlekalsøy Aase by former                              have among other things identified certain categories                     This publication illustrates our commitment to human
+Prime Minister Erna Solberg.                                               of suppliers we should pay extra attention to with                        rights and builds upon our long-term support to the
+                                                                           regards to potential risks related to human rights                        UN Global Compact. KPMG also has an extensive
+                  seema                                                    or decent working conditions. These assessments                           anti-money laundering and corruption program
+                                                                           lay the foundation for our risk-based approach to                         designed to ensure that we maintain the highest
+                                                                           human rights due diligence, and we will continue to                       standards of professional integrity.
+                                                                           strengthen our efforts to ensure we handle our most
+                                                                           severe impacts in a correct manner.                                       As mentioned in the previous chapter, we also have
+                                                                                                                                                     a Code of Conduct defining the standard for ethical
+                             Sammen                                        In the following, we present an overview of our                           conduct of all employees within KPMG.
+                            om en jobb                                     policies and our approach regarding people in our
+                                                                           value chain, a summary of our efforts to mitigate
+                                                                           adverse impacts on human rights and workers’                              How we seek to identify and mitigate adverse
+                                                                           rights and actions planned moving forward. To find                        impacts on human rights and workers rights
+                                                                           more information about our work on human rights                           Throughout 2023 we have intensified our work with
+                                                                           due diligence and read our full response to the                           human rights due diligence and chosen to involve internal
+                                                                           Norwegian Transparency Act, please refer to this link:                    subject matter experts to ensure that KPMG Norway
+                                                                           Redegjørelse for aktsomhetsvurderinger.                                   conducts our assessments in line with best practice.
+
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.                              Sustainability report 2023  23
+Our experts have assisted in the annual review                            Most of our first-tier suppliers are located in                           Besides this we will further develop our risk-based
+of governing documents and risk assessments                               Norway, while the remaining first-tier suppliers are                      approach to mapping our supply chains, update the                 A message from our CEO
+to establish measures for the way forward. As a                           in European countries such as the Netherlands,                            process description for human rights due diligence
+result of this, a concrete plan is put in place on how                    England, Denmark and Germany. We strive to keep                           assessments and ensure that it is followed up and
+we will proceed with human rights due diligence                           the number of suppliers at a manageable level                             integrated into daily operations.                                 General information
+assessments and how we will effectively incorporate                       with regards to risk management and focus on
+this into our daily operations.                                           establishing long-term relations with our suppliers.                      We acknowledge that the work on human rights
+                                                                          Throughout the reporting period, KPMG Norway                              due diligence requires dedicated efforts, and we                  Double materiality
+We have a risk-based approach to our work on                              recorded approximately 1800 suppliers and                                 consider it a continuous learning process. KPMG                   assessment in progress
+human rights due diligence. This means that                               business relationships.                                                   Norway will continue to strengthen our efforts to
+we form an overall risk profile on our suppliers                                                                                                    ensure that we have the right competences and
+and prioritize the most material areas for                                                                                                          resources in place to uphold our commitments                      Environment
+thorough mapping and management. We do                                    The•way•forward•                                                          with regards to the Norwegian Transparency Act.
+this by categorizing our suppliers according
+to low, medium, and high risk. Based on this                              Our current analyses indicate that there are                                                                                                Social
+categorization, we define relevant measures                               two main areas that need particular focus going
+tailored to the level of risk. In addition to the                         forward. Firstly, through our annual review of
+risk assessment, we consider our leverage.                                governing documents, we have identified the                                                                                                 Inclusion, Diversity
+                                                                                                                                                                                                                                          Inclusion, Diversity
+Our leverage does, however, not change our                                need for updates in several policies, such as our                                                                                           and Equity initiatives
+                                                                                                                                                                                                                                            and Equity initiatives
+responsibility, but it affects what risk mitigating                       Supplier Code of Conduct (CoC) and procurement
+actions that are relevant.                                                guide. The need for updates in our Supplier CoC
+                                                                          is e.g. stemming from ILO’s newly adopted                                                                                                   Governance
+Stakeholder dialogue is also essential to ensure                          definition on what is considered a living wage. It is
+that we identify and address potential adverse                            important for us that our internal documents and
+impacts. Throughout this reporting period we have                         policies remain aligned with the latest innovations
+been in dialogue with our responsible procurement                         in the field, and we strive to match evolving
+lead, HMS, CFO, internal subject matter experts                           market expectations and emerging requirements.
+on due diligence, and parties responsible for our                         Secondly, through our risk assessment, we have
+policies and processes regarding due diligence. We                        identified a lack of insights into the supply chain
+have also been in contact with first-tier suppliers.                      beyond tier one suppliers. Consequently, for the
+We are continuously assessing the need to engage                          FY23 efforts, we have based the risk assessments
+with more stakeholders, especially affected                               on potential risks of human rights violations using
+stakeholders beyond tier-one suppliers. Going                             external sources. We are continuously working
+forward this may include union representatives                            to enhance our insights into working conditions
+or employees at our suppliers or sub suppliers.                           within our supply chain. Efforts to better our
+                                                                          understanding will be a top priority throughout the
+                                                                          coming reporting year. Per now we have initiated
+Key figures for our supply chain                                          efforts to integrate supplier and business partner
+KPMG Norway has established a stable and                                  risk assessments into the existing ERP system
+good network of suppliers, many of whom                                   (Enterprise Resource Planning system) to ensure
+have been regular suppliers for many years.                               continuous and systematic supplier monitoring.
+
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.                            Sustainability report 2023  24
+Our•clients•                                                                Our policies and approach regarding our clients                              KPMG has an important focus on advising clients around
+                                                                            Our evaluation of our prospective clients includes                           sustainability solutions and the decarbonization journey,           A message from our CEO
+KPMG Norway provides services to Norwegian                                  an assessment of the client’s risk profile and                               together with our key work in the public interest of
+businesses, public-sector enterprises and major                             background information on the client, its key                                auditing climate-related risks and opportunities as they
+multi-national companies. KPMG Norway works                                 management, directors and owners. If necessary,                              are expressed in the financial statements.                          General information
+to ensure a consistent client experience in all                             the evaluation includes obtaining and assessing
+countries. Our advisory and consulting activities are                       additional information required to satisfy applicable
+performed by a number of specialist groups with                             legal/regulatory requirements.                                               Case:•Securing•trust•in•society•by•                                 Double materiality
+multidisciplinary collaboration as one of our most                                                                                                       preventing•money•laundering•and•                                    assessment in progress
+important tools to deliver high quality services.                           We consider a range of factors when we are                                   corruption
+                                                                            evaluating each prospective engagement including:
+Our clients range from small and medium-sized                                                                                                            Corruption erodes trust in democracy, the government                Environment
+businesses to many of Norway’s largest enterprises,                         •     potential independence and conflict of interest                        and the legal system, hindering fair competition and
+including listed companies. We also assist many                                   issues intended purpose and use of engagement                          economic growth. Money laundering supports criminal
+public-sector entities and agencies, and help non-                                deliverables                                                           networks and fuels further illegal activities, thus impeding        Social
+profit organizations succeed in their work. We work                                                                                                      the progress of stable societies and economic prosperity.
+with clients from a broad range of sectors, including                       •     public perception
+but not limited to:                                                         •     whether the services would be unethical or                             Preventing corruption and money laundering is a key                 Inclusion, Diversity
+                                                                                                                                                                                                                                                 Inclusion, Diversity
+                                                                                  inconsistent with our Values                                           aspect of corporate social responsibility. Numerous                 and Equity initiatives
+                                                                                                                                                                                                                                                   and Equity initiatives
+We work with clients from a broad range of sectors,                                                                                                      national and international regulations exist to prohibit
+most notably:                                                               How we strive to make a positive societal                                    and prevent these crimes.
+                                                                            impact through our services                                                                                                                      Governance
+•    Public administration                                                                                                                               We support both public and private sectors in
+                                                                            We drive social impact by helping to stimulate digital                       implementing anti-corruption measures and managing
+•    Transportation and roads                                               and technological advancements through innovation                            the risks associated with money laundering. This
+•    Retail                                                                 and by leveraging our global reach.                                          effort aims to deter corruption and money laundering,
+•    Banking, finance and insurance                                                                                                                      ensuring any infractions are promptly identified and
+                                                                            KPMG also makes important contributions to the                               addressed in compliance with regulations.
+•    Healthcare                                                             work to combat social dumping and illegal working
+•    Oil and gas                                                            conditions through our assistance to clients (auditing
+                                                                            of suppliers, control of supply chains). Ever since the                      The•way•forward•
+•    Power and utilities                                                    EU enlargement, law has also had a clear position in
+•    Seafood                                                                the public debate and contributed to the development                         This will require us to build knowledge about
+                                                                            of new and improved legislation.                                             sustainability across the organization and establish
+KPMG’s clients are located across Norway, with                                                                                                           ways of working together where our knowledge and
+business activities that spread around the globe.                           Our goal is also to collaborate with top-notch technology                    perspectives on sustainability really contribute to
+                                                                            environments to build innovative solutions. The diversity                    finding the best solutions for our clients. We are at
+                                                                            index platform, developed in cooperation with Diversity                      the very beginning of this journey, which is a crucial
+                                                                            Index, is an example of how KPMG pursues innovative                          one for KPMG to succeed with driving sustainable
+                                                                            technological and sustainable solutions.                                     change for all our stakeholders.
+
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.                                   Sustainability report 2023  25
+                                                                                                                                                                                                                            A message from our CEO
+
+                                                                                                                                                                                                                            General information
+
+                                                                                                                                                                                                                            Double materiality
+
+Governance
+KPMG is here to help bring positive change and
+this can only be achieved with strong governance.                           Our policies and approach regarding
+                                                                            governance                                                                                                                                      assessment in progress
+                                                                                                                                                                                                                            Environment
+Governance creates the framework that drives                                Audit quality is fundamental in creating trust
+purposeful activity. It helps us ensure we are                              in the capital markets and continues to be our                                                                                                  Social
+considering our economic, environmental, and                                highest priority. It is the foundation upon which our
+social impact in all that we do, internally and in our                      professional reputation rests. Ensuring high quality
+work with clients. It helps us align our financial and                      auditing services is therefore crucial for maintaining                                                                                          Inclusion, Diversity
+societal performance.                                                       public trust. We define audit quality as the outcome                                                                                            and Equity initiatives
+                                                                            when audits are executed consistently, in line
+Driven by our Values that guide our actions and our                         with the requirements and intent of applicable                              KPMG Norway has fully adopted KPMG International’s
+Purpose to inspire confidence and empower change,                           professional standards within a strong system of                            global approach to SoQM and ISQM 1, which:                          Governance
+                                                                                                                                                                                                                                      Governance
+we are committed to the highest standards of                                quality management. All of our services, including
+personal and professional behavior. As the pressures                        advisory services as well as legal services in KPMG                         •     Sets policies and procedures to support KPMG’s
+on business and society evolve and intensify, we                            Law, are exercised and executed in an environment                                 effective SoQM in accordance with ISQM 1
+believe our Purpose remains as relevant as ever.                            characterized by the highest level of objectivity,                                issued by the IAASB
+                                                                            independence, ethics, and integrity.
+KPMG Norway is part of the global KPMG network                                                                                                          •     Establishes for each SoQM component,
+that has approximately 275 000 employees and offices                        Across the global organization, KPMG firms have                                   globally consistent quality objectives, risks and
+in 145 countries. Although managed independently,                           strengthened the consistency and robustness of their                              responses
+KPMG is structured in a way that global activities                          system of quality management (SoQM) to meet the                             •     Provides KPMG with a risk assessment framework
+support a consistent level of quality and set of values,                    requirements of the International Standard on Quality                             that they have agreed to use in identifying
+regardless of where in the world KPMG is active. For                        Management (ISQM) 1, issued by the International                                  incremental KPMG
+more information regarding our governance, please                           Auditing and Assurance Standards Board (IAASB).                             •     Firm-specific quality objectives, risks, and controls
+read our Transparency Report. This chapter addresses                        Foundational for quality management, our globally                                 supports KPMG with guidance, tools, and training to
+our impact on financial transparency, risks related to                      consistent approach to ISQM 1 drives compliance                                   drive consistent and effective firm SoQM operation
+corruption, bribery and anti-money laundering and the                       with the requirements of the standard and our efforts
+importance of a corporate culture,                                          to strengthen trust and transparency with our clients,                      •     Includes monitoring activities over KPMG’s SoQM to
+                                                                            the capital markets, and the public we serve.                                     drive global consistency
+
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.                                  Sustainability report 2023  26
+Our globally consistent approach to ISQM 1 means
+that we respond robustly in the work to achieve the                                     KPMG’s Global Quality Framework                                                                     A message from our CEO
+standard’s quality objectives. For each component of
+the standard, we have established minimum quality
+objectives as well as quality risks and responses.                                                                                                                                          General information
+KPMG has established a risk assessment process
+which is used in identifying additional firm-specific
+quality objectives, quality risks, and responses and                                                                                                                                        Double materiality
+requirements for testing and evaluation of their system                                                                                                                                     assessment in progress
+of quality management together with guidance, tools
+and templates to support the consistent implementation
+of ISQM 1 across KPMG member firms.                                                                                                                                                         Environment
+
+To provide more transparency on what drives KPMG
+audit and assurance quality, this report is structured                                                                                                                                      Social
+around the KPMG Global Quality Framework. For
+KPMG, the Global Quality Framework outlines how
+we deliver quality and how every KPMG professional                                                                                                                                          Inclusion, Diversity
+contributes to its delivery. In this report we have                                                                                                                                         and Equity initiatives
+elaborated on the topics most material to our
+ESG work. For a full report on the Global Quality
+Framework, see KPMGs Transparency report.                                                                                                                                                   Governance
+                                                                                                                                                                                                      Governance
+
+Live•our•culture•and•Values•
+It’s not just what we do at KPMG that matters, but
+also how we do it. Our Values are our core beliefs,
+guiding and unifying our actions and behaviors. Shared
+across all personnel and in every country, jurisdiction
+and territory in which we operate, they are the
+foundation of our unique culture.
+
+At KPMG, our Values lie at the heart of the way we do
+things. To do the right thing, the right way. They form
+the foundation of a resilient culture ready to meet
+challenges with integrity, so we never lose sight of
+our principal responsibility, which is to serve the public
+interest. In addition, they propel us forward — through
+our work and the example we set — as we inspire
+confidence and empower change throughout the world.
+
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.  Sustainability report 2023  27
+We are committed to the highest standards of                               Zero•tolerance•for•bribery•and•corruption•                                 Anti-corruption
+personal and professional behavior in everything                                                                                                                                                                         A message from our CEO
+we do. Ethics and integrity are core to who we                             We have zero tolerance of bribery and corruption.                          •    KPMG adopts a zero-tolerance approach to
+are. Our Global Code of Conduct, outline the                               All KPMG firms’ partners and personnel are required                             bribery and corruption. We prohibit all forms
+responsibilities all KPMG personnel have to each                           to take trainings covering compliance with laws,                                of corruption and do not tolerate any bribery                 General information
+other, our clients and the public. It shows how our                        regulations and professional standards relating to                              by third parties, including our clients, suppliers
+Values and Purpose inspire our greatest aspirations                        anti-bribery and corruption, including the reporting                            and public-sector officers. KPMG provides
+and guide all our behaviors and actions. It defines                        of suspected or actual non-compliance. Further                                  training for all partners and employees on                    Double materiality
+what it means to work in and be part of the KPMG                           information on KPMG International anti-bribery and                              measures against bribery and corruption and                   assessment in progress
+organization, as well as our individual and collective                     corruption policies can be found on the anti-bribery                            has established guidelines for gifts KMPG
+responsibilities. Everyone at KPMG can expect to                           and corruption site.                                                            employees may give and receive.
+be held accountable for adhering to our Code of                                                                                                                                                                          Environment
+Conduct and is required to confirm their compliance                        Anti-money laundering                                                      Insider trading
+with it. Individuals are strongly encouraged to
+speak up if they see something that makes them                             •    KPMG has incorporated the regulations to                              •    KPMG’s guidelines for insider trading follow                  Social
+uncomfortable or that is not in compliance with the                             combat money laundering and the financing of                               the Norwegian Securities Trading Act. Under
+Code of Conduct or our Values. Everyone at KPMG is                              terrorism in our guidelines. The required client                           KPMG’s guidelines, the engagement partner
+required to report any activity that could potentially                          actions in accordance with the Norwegian Anti-                             is responsible for ensuring that team members                 Inclusion, Diversity
+be illegal or in violation of our Values, KPMG policies,                        Money Laundering Act are an integral part of                               are informed of their obligations and liability               and Equity initiatives
+applicable laws, regulations or professional                                    KPMG’s client and project evaluation process.                              regarding inside information. The engagement
+standards. Everyone at KPMG is required to report                               These guidelines regulate ongoing monitoring,                              partner is also responsible for maintaining a list
+any activity that could potentially be illegal or in                            the duty to investigate and report, training                               of individuals with access to inside information.             Governance
+                                                                                                                                                                                                                                   Governance
+violation of our Values, KPMG policies, applicable                              and the responsibilities of the Anti-Money
+laws, regulations or professional standards.                                    Laundering Officer.                                                   Financial•transparency•
+                                                                                                                                                      We have a fundamental commitment to serve
+                                                                                                                                                      the public interest and build trust. Our leadership
+                                                                                                                                                      in responsible tax also encompasses how we
+                                                                                                                                                      deliver our services to clients, the arrangements
+                                                                                                                                                      of KPMG firm and the respective Partners’ tax
+                                                                                                                                                      affairs. We’re committed to acting lawfully and
+                                                                                                                                                      with integrity, providing high quality advice and
+                                                                                                                                                      building mutually trusting relations with the tax
+                                                                                                                                                      authorities. This is consistent with our values, our
+                                                                                                                                                      Global Code of Conduct and our Global Principles
+                                                                                                                                                      for a Responsible Tax Practice. Follow link for more
+                                                                                                                                                      information on KPMGs financial reporting and
+                                                                                                                                                      transparency report.
+
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.                               Sustainability report 2023  28
+Case:•Ensuring•accurate•tax•reporting•                                     Management•of•relationships•with•                                          For example, all agreements have been categorized
+for•multinational•companies                                                suppliers•                                                                 to ease further follow-up of suppliers. To ensure                  A message from our CEO
+                                                                                                                                                      that we have a responsible procurement practice
+In KPMG Law, we are committed to ensuring that                             Our policies and approach regarding suppliers                              that sustains our other efforts on ESG and human
+multinational companies report the correct tax in                                                                                                     rights due diligence, we have also been making                     General information
+each country they operate in. One way of achieving                         In order to ensure a systematic follow-up and good                         improvements in risk mapping when it comes to
+this is through country-by-country tax reporting,                          relations with our suppliers and business partners we                      risk of contributing to human rights and workers’
+which is a reporting method that helps companies                           have the following procedures in place:                                    rights through the products and services we buy.                   Double materiality
+report tax in each country they operate in.                                                                                                                                                                              assessment in progress
+                                                                           •    Supplier Code of Conduct                                              Our policies are reviewed annually and revised
+This method is crucial in increasing transparency                                                                                                     when necessary.
+and accountability in business practices and                               •    Purchasing guide (internal policy)                                                                                                       Environment
+ensuring that companies pay the correct tax.
+Several countries have introduced legislation that                         Supplier Code of Conduct                                                   The•way•forward•
+requires companies to report in this way, and we                           Through our Supplier Code of Conduct, we clearly                                                                                              Social
+work closely with these to ensure compliance.                              communicate our expectation that suppliers comply with                     When it comes to acting on our Global Principles
+                                                                           the requirements of the Transparency Act, the OECD                         for a Responsible Tax Practice in KPMG Law,
+As advisors, we use analysis tools and technology                          Guidelines for Responsible Business Conduct and the                        we will in FY2024 further develop our work on                      Inclusion, Diversity
+to ensure accuracy and reliability in the tax reports.                     ILO’s core conventions for decent working conditions.                      “responsible tax” by setting goals and targets as                  and Equity initiatives
+Our work includes collecting and analyzing data on                                                                                                    well as having a dedicated resource in ESG Law
+the company’s financial activities in each country they                    Purchasing guide                                                           that will coordinate our efforts.
+operate in. This helps increase trust in the companies                     The purchasing guide describes the decision-                                                                                                  Governance
+                                                                                                                                                                                                                                   Governance
+and their business practices, as well as reduce the risk                   making levels, responsibilities, prerequisites and                         KPMG Norway has reviewed governance documents,
+of companies being sanctioned due to misreporting.                         authorizations for all purchases to be made in                             including our procurement policy, to identify gaps
+                                                                           KPMG Norway. The purpose of the document is                                against requirements and best practices. In FY2024
+Our commitment to accurate tax reporting is not only                       to clarify our internal guidelines for procurement,                        we will revise our Supplier Code of Conduct,
+important for the companies we work with, but also                         including who can make what types of purchases                             purchasing guidelines, guidelines for a risk-based
+for society as a whole. By ensuring that companies                         and what amount limits have been set at the various                        approach to supplier management and our process
+pay the correct tax to each country of operation,                          authorization levels.                                                      description for due diligence assessments. We will
+we contribute to a more fair and sustainable global                                                                                                   follow up suppliers in risk categories as part of our
+economy. We are proud to be part of the solution.                                                                                                     ongoing due diligence work. The work on follow-up
+                                                                           How we ensure responsible procurement                                      of suppliers regarding their responsible business
+                                                                           During the reporting year, KPMG Norway has focused                         conduct will be stepped up in FY2024. For more
+                                                                           on upgrading the procurement solution to get better                        information about our due diligence process, see our
+                                                                           system support for contract follow-up. This will enable                    FY2023 report on the Transparency Act.
+                                                                           us to both manage our suppliers more efficiently
+                                                                           and timely, and to allow for a more systematic
+                                                                           approach to our human right’s due diligence in the
+                                                                           supply chain. In this process, work was also done
+                                                                           to increase the data quality of existing agreements.
+
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.                               Sustainability report 2023  29
+The information contained herein is of a general nature and is not intended to address the circumstances of any particular individual or entity. Although we endeavor to provide accurate and timely
+information, there can be no guarantee that such information is accurate as of the date it is received or that it will continue to be accurate in the future. No one should act on such information without
+appropriate professional advice after a thorough examination of the particular situation.
+
+© KPMG AS and KPMG Law Advokatfirma AS, Norwegian limited liability companies and a member firm of the KPMG global organization of independent member firms affiliated with KPMG
+International Limited, a private English company limited by guarantee. All rights reserved.
+
+KPMG refers to the global organization or to one or more of the member firms of KPMG International Limited (“KPMG International”), each of which is a separate legal entity. KPMG International
+Limited is a private English company limited by guarantee and does not provide services to clients. For more detail about our structure please visit kpmg.com/governance.
+
+Publication name: Sustainability report 2023
+
+Publication date: Juni 2024
+
+© 2024 KPMG Norge
